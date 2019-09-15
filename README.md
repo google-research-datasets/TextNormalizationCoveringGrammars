@@ -3,11 +3,11 @@
 This repository provides covering grammars for English and Russian text normalization as
 documented in:
   
-  Gorman, K., and Sproat, R. (2016). Minimally supervised number normalization.
+  Gorman, K., and Sproat, R. 2016. Minimally supervised number normalization.
   _Transactions of the Association for Computational Linguistics_ 4: 507-519.
-
-  Wu, K., Gorman, K., and Sproat, R. (2016). Minimally supervised
-  written-to-spoken text normalization. _arXiv_ 1609.06649.
+  
+  Ng, A. H., Gorman, K., and Sproat, R. 2017. Minimally supervised
+  written-to-spoken text normalization. In _ASRU_, pages 665-670.
 
 If you use these grammars in a publication, we would appreciate if you cite these works.
 
